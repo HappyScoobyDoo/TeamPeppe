@@ -42,3 +42,5 @@ e. write a function that given C returns a triple (r,g,b) such that
 - b is the number of colors where the B value is greater of both R and G
 f. creates a dictionary T whose keys are the strings “Color”,”R”,”G”,”B”, and whose values are the 
 list containing the respective columns of the table above
+
+Se vedi questo messaggio, il merge è riuscito.
