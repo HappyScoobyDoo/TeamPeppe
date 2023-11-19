@@ -1,4 +1,5 @@
 # TeamPeppe
+# Create una cartella con il vostro nome e ci mettete dentro i vostri esercizi
 Laboratory on Sets and Dictionaries
 1. Write a function that given a string S and and integer k>0 generates a set M whose elements are 
 all the substrings of length k of S.
