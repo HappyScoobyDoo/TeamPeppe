@@ -1,0 +1,22 @@
+{
+  "name": "mocha-ts-demo",
+  "version": "1.0.0",
+  "description": "Getting started with Mocha for typescript testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.10",
+    "@types/mocha": "^10.0.4",
+    "@types/sinon": "^17.0.1",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "sinon": "^17.0.1",
+    "typescript": "^5.2.2"
+  }
+}
