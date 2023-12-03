@@ -8,3 +8,4 @@ def countNotVowels(string) :
 
 print(countNotVowels("Pdirc"))
 print("ciao mamma sono in tv")
+print("Ti voglio bene mamma")
