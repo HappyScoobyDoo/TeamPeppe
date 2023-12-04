@@ -7,12 +7,4 @@ def countNotVowels(string) :
     return count
 
 print(countNotVowels("Pdirc"))
-print("ciao mamma sono in tv")
-print("Ti voglio bene mamma")
-print("Sono la tua vita")
-print("ti prego sii felice")
-print("provo ad applicare lo stash")
-print("test1")
-print("test2")
-print("test3")
-print("test4")
+print("Faustino")
