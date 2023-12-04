@@ -8,3 +8,4 @@ def countNotVowels(string) :
 
 print(countNotVowels("Pdirc"))
 print("Faustino")
+print("Test che collide su b2")
