@@ -9,3 +9,4 @@ def countNotVowels(string) :
 print(countNotVowels("Pdirc"))
 print("Faustino")
 print("Test1 b1 ")
+print("Test2 b1")
